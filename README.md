@@ -37,7 +37,7 @@
 **Solutions for Content Creators**
 QandQ Services offers customized solutions for streamers and content creators. 
 
-[🌐 Visit Project →](https://tuerkmen.dev/)
+[Visit Project →](https://tuerkmen.dev/)
 </div>
 
 </td>
