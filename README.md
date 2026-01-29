@@ -4,7 +4,7 @@
 
 # Muhammed Ali Türkmen
 
-**Software Developer** • **Cybersecurity Enthusiast** • **Full-Stack Engineer**
+**Software Developer** • **Founder** • **Full-Stack Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tuerkmen.dev-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://tuerkmen.dev/)
 [![Email](https://img.shields.io/badge/Email-muhammed.ali.tuerkmen%40gmail.com-667eea?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammed.ali.tuerkmen@gmail.com)
