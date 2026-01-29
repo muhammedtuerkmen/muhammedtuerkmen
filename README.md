@@ -7,8 +7,8 @@
 **Software Developer** • **Founder** • **Full-Stack Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tuerkmen.dev-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://tuerkmen.dev/)
-[![Email](https://img.shields.io/badge/Email-muhammed.ali.tuerkmen%40gmail.com-667eea?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammed.ali.tuerkmen@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammed--ali--tuerkmen-667eea?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ali-tuerkmen)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammedtuerkmen)
 
 </div>
 
@@ -85,13 +85,6 @@ QandQ Services offers customized solutions for streamers and content creators.
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-- 💼 Portfolio: [tuerkmen.dev](https://tuerkmen.dev/)
-- 📧 LinkedIn: [www.linkedin.com/muhammed-ali-tuerkmen](https://www.linkedin.com/in/muhammed-ali-tuerkmen)
 
 <div align="center">
 
