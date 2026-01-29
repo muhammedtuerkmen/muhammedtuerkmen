@@ -14,19 +14,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 > At 14, I discovered my passion for code. By 15, I was leading a Minecraft community project as Project Owner, managing a team of 19 and architecting infrastructure that supported 100+ concurrent players using Docker and containerized systems. Today, I build scalable, cloud-native applications focused on security and innovation.
 
 **Full-Stack Developer** with a proven track record of building and deploying production-ready systems. Specialized in TypeScript, Python, Docker, and modern DevOps patterns. Successfully led projects from gaming platforms to enterprise security solutions, combining technical expertise with leadership experience.
 
-🔭 **Currently**: Building QandQ Services - A comprehensive software & infrastructure platform  
-🌱 **Learning**: Advanced Kubernetes orchestration & cybersecurity patterns  
-📍 **Based in**: Germany
+**Currently**: Building QandQ Services - A comprehensive software & infrastructure platform  
+**Learning**: Advanced Kubernetes orchestration & cybersecurity patterns  
+**Based in**: Germany
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -53,7 +53,7 @@ QandQ Services offers customized solutions for streamers and content creators.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
