@@ -2,7 +2,7 @@
 
 ![Header](https://camo.githubusercontent.com/638546f05980f6950a37897bc70f0005220c0aa8607f9033e488a5672db53de3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a363637656561)
 
-# Muhammed Ali Türkmen
+# Muhammed Türkmen
 
 **Software Developer** • **Founder** • **Full-Stack Engineer**
 
