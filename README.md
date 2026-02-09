@@ -34,22 +34,48 @@
 <div align="center">
   
 ### QandQ Services
-**Solutions for Content Creators**
-QandQ Services offers customized solutions for streamers and content creators. 
+**Solutions for Content Creators**  
+QandQ Services offers customized solutions for streamers and content creators.  
 
-[Visit Project →](https://tuerkmen.dev/)
+[Visit Project →](https://qandqservices.de/)
 </div>
 
 </td>
 <td width="50%">
 
 <div align="center">
-<img width="3426" height="1944" alt="grafik" src="https://github.com/user-attachments/assets/032e6992-7b1d-4d68-bfb3-d8efd4649025" />
+<img width="3426" height="1944" alt="QandQ Services Preview" src="https://github.com/user-attachments/assets/032e6992-7b1d-4d68-bfb3-d8efd4649025" />
 </div>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+  
+### QandQservices Store Platform
+**Open-source Minecraft Storefront**  
+Open-source, community-driven store platform starter for Minecraft servers — modular, extensible, and built to avoid lock-in.  
+
+[Visit Project →](https://github.com/muhammedtuerkmen/mc-store-platform)
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+<img width="3426" height="1944" alt="QandQ Store Platform Preview" src="https://private-user-images.githubusercontent.com/76977433/547178485-7f15c003-b60e-4694-87ef-c68f0b6efe09.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA2NTA1MzAsIm5iZiI6MTc3MDY1MDIzMCwicGF0aCI6Ii83Njk3NzQzMy81NDcxNzg0ODUtN2YxNWMwMDMtYjYwZS00Njk0LTg3ZWYtYzY4ZjBiNmVmZTA5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA5VDE1MTcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyN2MxMzY0NjRlOWNiZDQyYTViNmJiMjI5ZTIzZDExNjg4ZDhiZjc2NzNmYjNhNzkyNTAzOTU5YjdhNDg2YzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4AU5is2LuzClDPYDcFR_InOWTasY8VC8RZRCnrWaSZg" />
+</div>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
