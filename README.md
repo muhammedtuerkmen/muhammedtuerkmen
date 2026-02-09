@@ -58,8 +58,8 @@ QandQ Services offers customized solutions for streamers and content creators.
 <td width="50%">
 <div align="center">
   
-### QandQservices Store Platform
-**Open-source Minecraft Storefront**  
+### QandQ Store Platform
+**Open-source Minecraft Store platform**  
 Open-source, community-driven store platform starter for Minecraft servers — modular, extensible, and built to avoid lock-in.  
 
 [Visit Project →](https://github.com/muhammedtuerkmen/mc-store-platform)
