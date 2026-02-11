@@ -69,7 +69,8 @@ Open-source, community-driven store platform starter for Minecraft servers — m
 <td width="50%">
 
 <div align="center">
-<img width="3426" height="1944" alt="QandQ Store Platform Preview" src="https://private-user-images.githubusercontent.com/76977433/547178485-7f15c003-b60e-4694-87ef-c68f0b6efe09.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA2NTA1MzAsIm5iZiI6MTc3MDY1MDIzMCwicGF0aCI6Ii83Njk3NzQzMy81NDcxNzg0ODUtN2YxNWMwMDMtYjYwZS00Njk0LTg3ZWYtYzY4ZjBiNmVmZTA5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMjA5VDE1MTcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyN2MxMzY0NjRlOWNiZDQyYTViNmJiMjI5ZTIzZDExNjg4ZDhiZjc2NzNmYjNhNzkyNTAzOTU5YjdhNDg2YzMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.4AU5is2LuzClDPYDcFR_InOWTasY8VC8RZRCnrWaSZg" />
+  <img width="1869" height="1497" alt="grafik" src="https://github.com/user-attachments/assets/2264d8d5-3660-44a2-83bb-7df85d1a9798" />
+
 </div>
 
 </td>
