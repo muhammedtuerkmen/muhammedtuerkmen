@@ -44,7 +44,7 @@ QandQ Services offers customized solutions for streamers and content creators.
 <td width="50%">
 
 <div align="center">
-<img width="3426" height="1944" alt="QandQ Services Preview" src="https://github.com/user-attachments/assets/032e6992-7b1d-4d68-bfb3-d8efd4649025" />
+<img width="3426" height="1944" alt="image" src="https://github.com/user-attachments/assets/b8fdeb47-565f-4790-97df-7325be6c2685" />
 </div>
 
 </td>
