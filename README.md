@@ -78,6 +78,31 @@ Open-source, community-driven store platform starter for Minecraft servers — m
 </table>
 
 
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<div align="center">
+  
+### BlackProtect
+**Advanced DDoS Mitigation & Protection**  
+BlackProtect drops DDoS traffic at the kernel level before a single packet reaches your server. Built specifically for Minecraft administrators who need enterprise-grade security.  
+
+[Visit Project →](https://bp.tuerkmen.dev/)
+</div>
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img width="3426" height="1944" alt="BlackProtect Dashboard" src="https://github.com/user-attachments/assets/c439d3fd-6297-4e86-9623-46ac46750e47" />
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Tech Stack
