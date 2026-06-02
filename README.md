@@ -20,7 +20,7 @@
 
 **Full-Stack Developer** with a proven track record of building and deploying production-ready systems. Specialized in TypeScript, Python, Docker, and modern DevOps patterns. Successfully led projects from gaming platforms to enterprise security solutions, combining technical expertise with leadership experience.
 
-**Currently**: Building QandQ Services - A comprehensive software & infrastructure platform  
+**Currently**: Building QandQ Services (software & infrastructure), BlackProtect (DDoS mitigation), Creator Wiki (AI-powered platform for content creators) & Heldio (local neighbor-to-neighbor delivery app)
 **Learning**: Advanced Kubernetes orchestration & cybersecurity patterns  
 **Based in**: Germany
 
