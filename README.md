@@ -89,7 +89,7 @@ Open-source, community-driven store platform starter for Minecraft servers — m
 **Advanced DDoS Mitigation & Protection**  
 BlackProtect drops DDoS traffic at the kernel level before a single packet reaches your server. Built specifically for Minecraft administrators who need enterprise-grade security.  
 
-[Visit Project →](https://bp.tuerkmen.dev/)
+[Visit Project →](https://blackprotect.net/)
 </div>
 
 </td>
