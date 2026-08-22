@@ -28,30 +28,37 @@
 
 ## Featured Projects
 
+
+
+
+
+
+<br/>
+
 <table>
 <tr>
 <td width="50%">
 <div align="center">
   
-### QandQ Services
-**Solutions for Content Creators**  
-QandQ Services offers customized solutions for streamers and content creators.  
+### BlackProtect
+**Advanced DDoS Mitigation & Protection**  
+BlackProtect drops DDoS traffic at the kernel level before a single packet reaches your server. Built specifically for Minecraft administrators who need enterprise-grade security.  
 
-[Visit Project →](https://qandqservices.de/)
+[Visit Project →](https://blackprotect.net/)
 </div>
 
 </td>
 <td width="50%">
 
 <div align="center">
-<img width="3426" height="1944" alt="image" src="https://github.com/user-attachments/assets/b8fdeb47-565f-4790-97df-7325be6c2685" />
+  <img width="3426" height="1944" alt="BlackProtect Dashboard" src="https://github.com/user-attachments/assets/c439d3fd-6297-4e86-9623-46ac46750e47" />
 </div>
 
 </td>
 </tr>
 </table>
 
-<br/>
+</br>
 
 <table>
 <tr>
@@ -77,26 +84,25 @@ Open-source, community-driven store platform starter for Minecraft servers — m
 </tr>
 </table>
 
-
-<br/>
+</br>
 
 <table>
 <tr>
 <td width="50%">
 <div align="center">
   
-### BlackProtect
-**Advanced DDoS Mitigation & Protection**  
-BlackProtect drops DDoS traffic at the kernel level before a single packet reaches your server. Built specifically for Minecraft administrators who need enterprise-grade security.  
+### QandQ Services
+**Solutions for Content Creators**  
+QandQ Services offers customized solutions for streamers and content creators.  
 
-[Visit Project →](https://blackprotect.net/)
+[Visit Project →](https://qandqservices.de/)
 </div>
 
 </td>
 <td width="50%">
 
 <div align="center">
-  <img width="3426" height="1944" alt="BlackProtect Dashboard" src="https://github.com/user-attachments/assets/c439d3fd-6297-4e86-9623-46ac46750e47" />
+<img width="3426" height="1944" alt="image" src="https://github.com/user-attachments/assets/b8fdeb47-565f-4790-97df-7325be6c2685" />
 </div>
 
 </td>
