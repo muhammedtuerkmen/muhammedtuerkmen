@@ -51,7 +51,7 @@ BlackProtect drops DDoS traffic at the kernel level before a single packet reach
 <td width="50%">
 
 <div align="center">
-  <img width="3426" height="1944" alt="BlackProtect Dashboard" src="https://github.com/user-attachments/assets/c439d3fd-6297-4e86-9623-46ac46750e47" />
+  <img width="3358" height="1944" alt="grafik" src="https://github.com/user-attachments/assets/aaa7221a-9b2f-49b7-ac1c-d38a124d906c" />
 </div>
 
 </td>
