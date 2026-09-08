@@ -6,8 +6,8 @@
 
 **Software Developer** • **Founder** • **Full-Stack Engineer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tuerkmen.dev-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://tuerkmen.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammed--ali--tuerkmen-667eea?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-ali-tuerkmen)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-tuerkmen.dev-667eea?style=flat-square&logo=google-chrome&logoColor=white)](https://tuerkmen.dev/)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammed--tuerkmen-667eea?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-tuerkmen/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-667eea?style=flat-square&logo=github&logoColor=white)](https://github.com/muhammedtuerkmen)
 
 </div>
